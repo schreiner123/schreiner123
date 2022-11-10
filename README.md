@@ -1,13 +1,5 @@
-1- 👋 Olá me chamo Luigi
-
-2- ✨tenho 16 anos
-
-3- 🏠 Moro em campo do tenente
-
-4- 📚 Estudo no colégio Victor Bussmann
-
-5- 🌃 Estudo no período noturno
-
-6- ⚽️ Gosto de jogar futebol
-
-7- 📱 4788181785
+- 👋 Olá me chamo Luigi
+- ✨ tenho 16
+- 🏠 campo do tenente PR
+- 🎓 Colegio Estadual Victor Bussmann
+- 
